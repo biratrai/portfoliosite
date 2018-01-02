@@ -1,1 +1,19 @@
 /* Your custom styles */
+.row {
+    padding: 12px;
+}
+
+#portfolio-image {
+	style="background-color: #92a8d1; 
+	/*display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden*/
+}
+
+#portfolio-image img {
+    /*flex-shrink: 0;
+    min-width: 100%;
+    min-height: 50%*/
+    /*max-width: 100%;*/
+}

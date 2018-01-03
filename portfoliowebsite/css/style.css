@@ -4,22 +4,24 @@
 }
 
 #portfolio-image {
-	style="background-color: #92a8d1; 
+	background-color: #92a8d1; 
 	/*display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden*/
-    /*-webkit-box-sizing: border-box;
+   /* -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;*/
+    display: flex;
 }
 
 #portfolio-image img {
+	 display: flex;
     /*flex-shrink: 0;
     min-width: 100%;
     min-height: 50%*/
-    /*max-width: 100%;*/
+    /*height: 100%;*/
     /*width: auto\9; 
   height: auto;
   max-width: 100%;*/ /* Auto scale 
@@ -28,6 +30,7 @@
   -ms-interpolation-mode: bicubic;
   margin: 0 auto;
     padding: 0 auto;*/
+
     /*-webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;

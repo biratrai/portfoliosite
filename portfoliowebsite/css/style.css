@@ -5,41 +5,27 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+.display-name {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #2D3C49;
+  font-size: 5em;
+}
 
-.row {
-    /*padding: 12px;*/
+.job-title {
+  color: #2D3C49;
+}
+
+.featured-work {
+    color: #7D97AD;
+    font-size: 3em;
+    margin-left: 16px;
 }
 
 #portfolio-image {
 	background-color: #92a8d1; 
-	/*display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden*/
-   /* -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;*/
-    display: flex;
+  display: flex;
 }
 
 #portfolio-image img {
 	 display: flex;
-    /*flex-shrink: 0;
-    min-width: 100%;
-    min-height: 50%*/
-    /*height: 100%;*/
-    /*width: auto\9; 
-  height: auto;
-  max-width: 100%;*/ /* Auto scale 
-  /*vertical-align: middle;
-  border: 0;
-  -ms-interpolation-mode: bicubic;
-  margin: 0 auto;
-    padding: 0 auto;*/
-
-    /*-webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;*/
 }

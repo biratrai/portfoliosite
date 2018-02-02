@@ -5,10 +5,19 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+.logo-image {
+    height: 40%;
+    width: 40%;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
 .display-name {
   font-family: 'Roboto Condensed', sans-serif;
   color: #2D3C49;
-  font-size: 5em;
+  font-size: 6em;
 }
 
 .job-title {

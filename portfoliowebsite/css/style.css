@@ -6,10 +6,18 @@
     box-sizing: border-box;
 }
 
+hr {
+    border: none;
+    height: 3px;
+    color: #7D97AD; /* old IE */
+    background-color: #7D97AD; /* Modern Browsers */
+}
+
 .logo-image {
     height: 100%;
     width: 100%;
     position: absolute;
+    display: flex;
 }
 
 .display-name {

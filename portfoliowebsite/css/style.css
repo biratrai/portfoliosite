@@ -1,29 +1,36 @@
 /* Your custom styles */
 * {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 hr {
-    border: none;
-    height: 3px;
-    color: #7D97AD; /* old IE */
-    background-color: #7D97AD; /* Modern Browsers */
+  border: none;
+  height: 3px;
+  color: #7D97AD; /* old IE */
+  background-color: #7D97AD; /* Modern Browsers */
 }
 
 .logo-image {
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    display: flex;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  display: flex;
 }
 
 .display-name {
   font-family: 'Roboto Condensed', sans-serif;
   color: #2D3C49;
   font-size: 6em;
+}
+
+.card-img {
+  height: 100%;
+  width: 100%;
+  /*position: absolute;*/
+  display: flex;
 }
 
 .job-title {

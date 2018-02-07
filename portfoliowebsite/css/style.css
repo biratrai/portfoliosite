@@ -31,6 +31,8 @@ hr {
   width: 100%;*/
   /*position: absolute;*/
   /*display: flex;*/
+  /*display: block;*/
+  max-height: 192px;
 }
 
 .job-title {

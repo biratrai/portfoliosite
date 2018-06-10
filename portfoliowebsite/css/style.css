@@ -1,4 +1,4 @@
-/* Your custom styles */
+/* The custom styles used in the project*/
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -14,10 +14,14 @@ hr {
 }
 
 .logo-image {
-  height: 100%;
-  width: 100%;
-  position: absolute;
+  height: 50%;
+  width: 50%;
+}
+
+.logo-container {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .display-name {
@@ -35,10 +39,11 @@ hr {
   color: #2d3c49;
 }
 
+.header-title {
+  text-align : right;
+}
 .featured-work {
     color: #7d97ad;
     font-size: 3em;
     margin-left: 16px;
 }
-
-

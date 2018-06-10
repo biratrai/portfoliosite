@@ -22,25 +22,21 @@ hr {
 
 .display-name {
   font-family: 'Roboto Condensed', sans-serif;
-  color: #2D3C49;
+  color: #2d3c49;
   font-size: 6em;
 }
 
 .card-img {
-  /*height: 0%;
-  width: 100%;*/
-  /*position: absolute;*/
   display: flex;
-  /*display: block;*/
   max-height: 192px;
 }
 
 .job-title {
-  color: #2D3C49;
+  color: #2d3c49;
 }
 
 .featured-work {
-    color: #7D97AD;
+    color: #7d97ad;
     font-size: 3em;
     margin-left: 16px;
 }

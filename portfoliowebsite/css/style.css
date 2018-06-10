@@ -30,7 +30,7 @@ hr {
   /*height: 0%;
   width: 100%;*/
   /*position: absolute;*/
-  /*display: flex;*/
+  display: flex;
   /*display: block;*/
   max-height: 192px;
 }
